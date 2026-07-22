@@ -9,3 +9,4 @@ public:
         return -1;
     }
 };
+// t= o(n) s=o(1)
