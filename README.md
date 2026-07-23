@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1695-maximum-erasure-value](https://github.com/Soumya0975/trying-to-solve-leetcode-/tree/master/1695-maximum-erasure-value) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Soumya0975/trying-to-solve-leetcode-/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Soumya0975/trying-to-solve-leetcode-/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
