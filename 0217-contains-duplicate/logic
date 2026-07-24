@@ -1,0 +1,14 @@
+nums[1,4,3,5,4]
+take first value then take every single possible value if it exists again retuen true else false
+but since its brute force evry single element is checked mutiple times 
+optimal apporach sorting
+if input array is sorted the array would be in a particular order so it becomes 1,3,4,4,5
+so we need to compare adjacent values but time complexity is o(nlogn)
+there is another optimal prcess 
+we need to keep track of all the elements that we already saw and access them quicly so hashset is used
+ hashset- cannot keep duplicate values 
+ arr=[3,1,4,1,5]
+ we keep adding values inside a box one by one it it doesnot exist it is put in the box or is stored in the box if another same no found we find the num 
+ return true
+ if we reach end of the array and no value repeted we return false
+ t=o(n)  same for space
